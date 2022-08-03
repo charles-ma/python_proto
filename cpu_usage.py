@@ -5,7 +5,7 @@ def infinite_loop():
         pass
 
 '''
-if we spin up two running processes without threads, will consume 2 cpu cores'
+if we spin up two running processes without threads, will consume 2 cpu cores
 if we spin up processes with threads, each process will still consume 100% cpu with 50% for each thread
 '''
 if __name__ == '__main__':
