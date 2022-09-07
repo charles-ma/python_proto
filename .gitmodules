@@ -1,0 +1,3 @@
+[submodule "pytest_proto"]
+	path = pytest_proto
+	url = git@github.com:charles-ma/pytest_proto.git
